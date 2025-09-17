@@ -1,7 +1,4 @@
 ### Olá, eu sou o Gabriel 👋
-- 📚 Cursando Engenharia de Software
-- 🌱 Estudando Java e Spring
-- 😄 Dev Junior
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciprianuu&show_icons=true&theme=transparent)
 
